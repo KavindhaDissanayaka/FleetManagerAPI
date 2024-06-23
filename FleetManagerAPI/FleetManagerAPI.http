@@ -1,0 +1,6 @@
+@FleetManagerAPI_HostAddress = http://localhost:5220
+
+GET {{FleetManagerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
